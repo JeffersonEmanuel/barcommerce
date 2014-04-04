@@ -2,7 +2,7 @@
 package br.com.ifpb.daca.barcommerce.util;
 
 import javax.faces.context.FacesContext;
-import org.hibernate.Session;
+import org.eclipse.persistence.sessions.Session;
 
 /**
  *
