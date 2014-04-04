@@ -18,7 +18,7 @@ import javax.persistence.TemporalType;
  * @author vanderlan
  */
 @Entity
-@Table(name = "tbl_movimento", catalog = "barcommerce_daca", schema = "")
+@Table(name = "tbl_movimento")
 public class Movimento implements Serializable {
     private static final long serialVersionUID = 1L;
     @Id
